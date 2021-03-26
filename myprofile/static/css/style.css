@@ -1,0 +1,43 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #333;
+    color: #fff;
+}
+
+.nav-link:hover{
+    background: #333333;
+    border: #997e73 2px outset;
+}
+
+#about-section .fas {
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.img-fluid {
+    height: auto;
+    width: 75%;
+}
+
+#accordion .card{
+    color: #000;
+    border: #000101 2px solid;
+}
+
+.info-header {
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px #ddd solid; 
+}
+
+
+
+#skill-section table{
+    color: #000;
+
+}
